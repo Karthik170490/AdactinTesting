@@ -104,6 +104,7 @@ public class AdactinTestScript extends BaseClass {
 		chromeBrowserLaunch();
 		launchURL("http://adactinhotelapp.com/HotelAppBuild2/");
         Thread.sleep(3000);
+        System.out.println("Browser Launched");
 	}
 
 //  @AfterClass
