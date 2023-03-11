@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37164" started-at="2023-02-24T00:25:28 IST" finished-at="2023-02-24T00:26:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37164" started-at="2023-02-24T00:25:28 IST" finished-at="2023-02-24T00:26:05 IST">
+      <class name="com.adactintestscript.AdactinTestScript">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="browserLaunch" is-config="true" duration-ms="9864" started-at="2023-02-24T00:25:28 IST" finished-at="2023-02-24T00:25:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:38 IST" finished-at="2023-02-24T00:25:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="tc001" duration-ms="12970" started-at="2023-02-24T00:25:38 IST" finished-at="2023-02-24T00:25:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-02-24T00:25:51 IST" finished-at="2023-02-24T00:25:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tc002()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="tc002" duration-ms="3153" started-at="2023-02-24T00:25:51 IST" finished-at="2023-02-24T00:25:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:51 IST" finished-at="2023-02-24T00:25:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:54 IST" finished-at="2023-02-24T00:25:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:54 IST" finished-at="2023-02-24T00:25:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc003()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="tc003" duration-ms="1597" started-at="2023-02-24T00:25:54 IST" finished-at="2023-02-24T00:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:56 IST" finished-at="2023-02-24T00:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:56 IST" finished-at="2023-02-24T00:25:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc004()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="tc004" duration-ms="2740" started-at="2023-02-24T00:25:56 IST" finished-at="2023-02-24T00:25:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc004 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="afterMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:59 IST" finished-at="2023-02-24T00:25:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2023-02-24T00:25:59 IST" finished-at="2023-02-24T00:25:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc005()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="tc005" duration-ms="6744" started-at="2023-02-24T00:25:59 IST" finished-at="2023-02-24T00:26:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc005 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.adactintestscript.AdactinTestScript@727803de]" name="afterMethod" is-config="true" duration-ms="1" started-at="2023-02-24T00:26:05 IST" finished-at="2023-02-24T00:26:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.adactintestscript.AdactinTestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
